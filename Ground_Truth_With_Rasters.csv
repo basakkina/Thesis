@@ -1,0 +1,602 @@
+fid,id,Change,Landscape,Type,layer,path,Pre_2022,Pre_2018,Ref_2022,Ref_2018
+"1","1",7,Tree,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0.053475379943848,0.00992255844175816,3.16670322418213
+"2","2",11,Tree,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,7.20163249969482,0.828820168972015,4.88383388519287
+"3","3",11,Tree - Courtyard,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,5.6315770149231,7.07018327713013,1.10595381259918,8.70055675506592
+"4","4",15,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.004638671875,0.064758412539959,12.1142349243164
+"5","5",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.225825607776642,2.0865490436554
+"6","6",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.359658241271973,2.18235492706299,1.82440459728241,8.13515377044678
+"7","7",20,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,11.9271879196167,16.3856010437012,1.65262675285339,20.2795753479004
+"8","8",11,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.15397357940674,0.748325288295746,9.73755359649658
+"9","8",12,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,4.70852756500244,0.0506847128272057,9.43599700927734
+"10","9",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,6.87570762634277,0.221540927886963,12.2644643783569
+"11","10",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,4.06051206588745,0.377514690160751,2.82872629165649
+"12","11",15,Tree - Carpark,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,10.5118227005005,0.0448471121490002,16.8769054412842
+"13","12",5,Tree - Carpark,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.040327072143555,4.03347778320313,0.235747218132019,5.64084243774414
+"14","13",7,Tree - Carpark,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.230357646942139,5.68977880477905
+"15","14",10,Tree - Industry,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,12.1537847518921,0.142858698964119,12.6994066238403
+"16","15",11,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,2.7321662902832,0.222925215959549,2.47981977462769
+"17","16",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,2.64543724060059,0.489935904741287,2.90463542938232
+"18","17",11,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,8.17686080932617,8.20425796508789,1.04609358310699,15.0093240737915
+"19","18",11,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.266387373209,3.1498875617981
+"20","19",4,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.373361468315125,1.03957962989807
+"21","20",11,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,9.74773406982422,0.538463771343231,13.4335823059082
+"22","21",10,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,14.4553489685059,0.0598541349172592,16.3304347991943
+"23","22",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.0115712601691484,1.60677576065063
+"24","23",11,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,7.97819709777832,0.0114266239106655,11.6131715774536
+"25","24",10,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.308380126953125,15.0782060623169,0.541828095912933,18.2896461486816
+"26","25",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,4.47623682022095,0.105668619275093,4.19564771652222
+"27","26",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.36133193969727,0.460853606462479,3.11465072631836
+"28","27",13,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,9.68445682525635,0.456259280443192,17.6657524108887
+"29","28",13,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,12.4579133987427,0.129754394292831,18.1956310272217
+"30","29",16,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.03163528442383,12.5672225952148,0.580983817577362,17.0244960784912
+"31","30",15,Tree - House,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,11.2079887390137,0.0415560230612755,12.4155139923096
+"32","31",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.22571754455566,7.97862005233765,0.345049798488617,11.2026100158691
+"33","32",11,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.9062385559082,2.70017147064209,0.747921168804169,4.36383438110352
+"34","33",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.38055324554443,7.50955295562744,0.477051883935928,9.27115154266357
+"35","34",10,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.15792083740234,0.0325872898101807,4.47028017044067
+"36","35",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.161828994750977,4.2388105392456,0.0960139706730843,7.11682224273682
+"37","36",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.807140350341797,7.41035985946655,0.212934195995331,7.13016176223755
+"38","37",15,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,5.58402729034424,0.036181878298521,9.00817108154297
+"39","38",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.72975540161133,0.282472461462021,3.26227974891663
+"40","39",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,6.68163013458252,0.0706479772925377,4.8423867225647
+"41","40",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.081231601536274,7.32047271728516
+"42","41",6,Tree - Platz,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.62877464294434,3.90531730651856,1.04284381866455,4.17256450653076
+"43","42",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.66324996948242,1.74652290344238,3.64217209815979,4.83188438415527
+"44","43",9,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.748085021972656,17.5082664489746,2.01808786392212,15.7344303131104
+"45","44",10,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,12.5226993560791,2.13058495521545,17.9116497039795
+"46","45",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.42080497741699,2.04559516906738,2.78832817077637,1.31865048408508
+"47","46",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,18.2745170593262,0.0771100968122482,14.3686771392822
+"48","47",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.1651782989502,2.59951686859131,1.18442463874817,2.28694224357605
+"49","48",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.47762870788574,6.1194658279419,0.691077411174774,7.57031488418579
+"50","49",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,4.71182346343994,8.27215385437012,2.70775032043457,5.09239435195923
+"51","51",1,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,5.36309194564819,11.4878101348877,0.524114310741425,6.36673736572266
+"52","52",1,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,4.31113004684448,12.1846189498901,0.682518243789673,6.04431772232056
+"53","53",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,7.8342752456665,0.182309091091156,12.0193405151367
+"54","54",8,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.0100623918697238,9.70559597015381
+"55","56",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,7.66092491149902,0.467297196388245,17.4078330993652
+"56","57",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,16.67529296875,0.183798119425774,23.5438022613525
+"57","58",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,5.61898994445801,0.331151843070984,10.0054597854614
+"58","59",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,19.6860408782959,1.02063155174255,18.4107360839844
+"59","60",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.97671413421631,0.191115811467171,11.0683031082153
+"60","61",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,9.24570941925049,0.0229087900370359,9.49646472930908
+"61","62",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,17.8175086975098,0.0947179049253464,19.5596408843994
+"62","63",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.64556980133057,8.9849214553833,0.694420337677002,5.22431898117065
+"63","64",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.17777442932129,8.7789831161499,2.20385050773621,10.4872255325317
+"64","65",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.988361358642578,6.80798006057739,0.562433362007141,12.0975103378296
+"65","66",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.36700439453125,4.90872526168823,0.389164835214615,6.84218120574951
+"66","67",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,4.36191368103027,9.18165588378906,3.15033006668091,7.66333818435669
+"67","68",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.124560803174973,1.90375912189484
+"68","69",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.39701271057129,2.26394987106323,2.96376752853394
+"69","70",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.13191223144531,4.28057479858398,0.269335091114044,9.82775020599365
+"70","71",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.486066818237305,5.1784405708313,0.46698260307312,7.38118076324463
+"71","72",4,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,11.15163230896,0.0532768107950687,11.2680902481079
+"72","73",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,4.30264186859131,11.0453615188599,0.767113089561462,14.085470199585
+"73","74",2,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0.236174583435059,0.0857271254062653,3.87429094314575
+"74","75",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0.385290145874023,0.296938717365265,3.70777583122253
+"75","76",1,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.47529411315918,0.446592271327972,2.70738434791565
+"76","77",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.90420722961426,0.0124862734228373,7.5164041519165
+"77","78",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.27264499664307,0.0977194458246231,4.44164180755615
+"78","79",2,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.189169198274612,2.53214573860168
+"79","80",4,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.53151512145996,0.0579796694219112,8.33014678955078
+"80","81",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,9.42668151855469,0.36718276143074,2.98268127441406
+"81","82",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.07532215118408,6.91373491287231,0.551100432872772,4.68133115768433
+"82","83",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0.96650505065918,0.488769769668579,4.99137115478516
+"83","84",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0.287045478820801,1.03851270675659,4.94058847427368
+"84","85",2,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.03931427001953,1.11976301670074,2.55352640151978
+"85","86",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.117742538452148,8.20480060577393,0.497763365507126,3.32055139541626
+"86","87",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.31234169006348,0.352509498596191,0.827230453491211,3.84678840637207
+"87","88",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.19575691223144,0.0473840497434139,7.34606504440308
+"88","89",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,5.82815551757813,0.533287286758423,11.5037975311279
+"89","90",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.12967300415039,4.68795204162598,0.333976864814758,10.0325584411621
+"90","91",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.75399589538574,9.5119800567627,1.0711715221405,14.2736873626709
+"91","92",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,7.61797046661377,0.384724676609039,6.54452991485596
+"92","93",4,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.0141354585066438,5.465651512146
+"93","94",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,4.88292503356934,0.0204672180116177,9.61283588409424
+"94","95",4,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,7.03722524642944,0.011570181697607,5.38595151901245
+"95","96",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,4.29564142227173,0.0733126625418663,8.91625690460205
+"96","97",4,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.13685035705566,9.64730167388916,1.52287352085114,9.14315032958984
+"97","98",15,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,4.54113674163818,14.5734233856201,2.70057034492493,20.3989791870117
+"98","99",4,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,9.55623340606689,0.401795029640198,7.57403993606567
+"99","100",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.0963325724005699,2.99161601066589
+"100","101",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,9.81518840789795,0.0185486096888781,14.1540813446045
+"101","102",8,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,13.8021183013916,0.717190980911255,14.214451789856
+"102","103",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.67288017272949,7.11981296539307,1.32585442066193,6.85034894943237
+"103","104",6,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,2.81781768798828,0.106583438813686,7.33799123764038
+"104","105",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,5.26096153259277,10.1097240447998,2.63155937194824,6.84736156463623
+"105","106",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.23453807830811,0.89691162109375,0.363746523857117,2.53140473365784
+"106","107",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,5.5365686416626,0.0328711718320847,9.98251438140869
+"107","108",15,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,15.7067270278931,1.14267146587372,20.8215827941895
+"108","109",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,2.64176082611084,0.0301364790648222,6.0597448348999
+"109","110",11,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,6.8305082321167,0.151600152254105,20.0395336151123
+"110","111",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.364870309829712,1.67256844043732
+"111","112",10,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,4.44596767425537,13.3728914260864,4.20840740203857,23.1287746429443
+"112","113",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,11.8498268127441,0.275275617837906,16.058744430542
+"113","114",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,5.70420074462891,0.0190410669893026,11.836932182312
+"114","115",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,7.97754192352295,0.540572345256805,8.14563274383545
+"115","116",6,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.16789245605469,0.332159399986267,4.55088758468628
+"116","117",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.89819049835205,0.0461271703243256,6.72077798843384
+"117","118",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.42947387695313,0.773658752441406,1.63060140609741
+"118","119",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.05308723449707,5.12471389770508,1.58312404155731,5.51880121231079
+"119","120",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.0120181199163198,2.15236806869507
+"120","121",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,11.5369968414307,0.00992255844175816,6.42742156982422
+"121","122",6,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.245039939880371,11.3174028396606,0.43150320649147,21.1615619659424
+"122","123",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,16.9831504821777,0.00992255844175816,16.2437229156494
+"123","124",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,20.2437973022461,0.0631191730499268,27.134672164917
+"124","125",9,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.641168594360352,11.8871040344238,0.421046525239944,16.0253257751465
+"125","126",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,5.38857269287109,20.3164501190186,0.0106118246912956,14.1208238601685
+"126","127",9,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,21.8847122192383,0.0414385534822941,29.2894153594971
+"127","128",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,5.99813461303711,0.00994377862662077,8.47840976715088
+"128","129",4,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,1.45364284515381,0.125356823205948,5.89919090270996
+"129","130",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,2.46785449981689,0.485502809286118,4.27051305770874
+"130","131",4,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,13.117603302002,0.41333994269371,12.50563621521
+"131","132",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.013955439440906,1.39807975292206
+"132","133",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,8.23758220672607,0.462190866470337,10.1224031448364
+"133","134",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,4.34816360473633,0.038104847073555,7.96484661102295
+"134","135",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,7.17264366149902,0.139695808291435,7.09253644943237
+"135","136",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.04830169677734,8.61924266815186,0.0204707365483046,10.7135286331177
+"136","137",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.0280145611613989,6.92720890045166
+"137","138",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,4.13978862762451,7.62186050415039,3.32593202590942,11.9493360519409
+"138","139",7,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,7.97590160369873,15.2603139877319,2.93999123573303,14.239296913147
+"139","140",1,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0.042930603027344,0.265898257493973,2.2218816280365
+"140","141",3,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,6.74256706237793,0.531365633010864,7.66961431503296
+"141","142",6,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.11078643798828,17.3826656341553,0.933264136314392,18.4900093078613
+"142","143",6,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,20.6146011352539,0.00992255844175816,19.9665870666504
+"143","144",5,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,15.7346725463867,0.267921447753906,17.9988803863525
+"144","145",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,6.20788621902466,10.1400756835938,0.503488481044769,5.41777515411377
+"145","146",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.83942222595215,5.59200477600098,0.781844317913055,7.76152229309082
+"146","147",7,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,8.45365810394287,17.695068359375,3.37602043151855,23.1190872192383
+"147","148",5,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.90246391296387,16.8195495605469,2.00049328804016,12.5734643936157
+"148","149",6,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,8.57262229919434,6.18698120117188,6.00133180618286,10.0720643997192
+"149","150",5,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.989406585693359,10.5189113616943,0.92327207326889,10.8005666732788
+"150","151",13,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,8.2671365737915,0.477350741624832,12.2460565567017
+"151","152",5,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,4.05698680877685,0.478243827819824,9.31965255737305
+"152","153",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.24725151062012,1.13096046447754,0.436077445745468,5.6767406463623
+"153","154",3,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.272718250751495,3.52170014381409
+"154","155",10,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,14.9049110412598,0.485835075378418,17.3094940185547
+"155","156",1,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.23946571350098,6.52561187744141,2.70340967178345,7.04004526138306
+"156","158",10,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.66628646850586,5.14036750793457,1.42320358753204,11.1547441482544
+"157","159",4,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,14.1094417572021,0.38330665230751,6.96979951858521
+"158","160",4,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,9.3135461807251,0.00992255844175816,3.72356390953064
+"159","161",10,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.66732406616211,15.7369728088379,3.5552179813385,14.7054824829102
+"160","162",5,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.98349666595459,12.0057735443115,1.90909481048584,13.7623510360718
+"161","168",8,Tree - Forest,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,18.2342147827148,0.443130016326904,10.0569667816162
+"162","172",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.115115188062191,4.09516906738281
+"163","173",7,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,8.92164039611816,0.0493310280144215,8.66707897186279
+"164","174",8,Tree - Forest,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.88868045806885,16.2139301300049,0.654302477836609,10.6219940185547
+"165","175",6,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,3.28289318084717,12.0402479171753,0.753374457359314,8.09327411651611
+"166","176",15,Tree - Forest,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,8.50619220733643,16.0343322753906,1.26387238502502,17.038854598999
+"167","177",15,Tree - Forest,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,7.6028094291687,15.1417121887207,0.653542220592499,16.3945846557617
+"168","178",16,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,8.85181140899658,0.0395781621336937,16.6622257232666
+"169","179",9,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.087991714477539,8.46587753295898,0.782535552978516,3.2099175453186
+"170","180",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.54177284240723,5.91964054107666,0.45078706741333,6.01578235626221
+"171","181",10,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,15.7081069946289,0.0766521021723747,11.4030389785767
+"172","182",14,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.11009311676025,5.20954942703247,0.540818631649017,16.917329788208
+"173","185",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.45975685119629,0.988570153713226,5.40551519393921
+"174","186",15,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,6.01703643798828,12.6106729507446,0.394405096769333,13.0831956863403
+"175","187",6,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,0,0.0172264669090509,2.28367018699646
+"176","188",16,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,12.8687286376953,0.00992255844175816,9.67672252655029
+"177","189",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.166876792907715,7.39037704467773,0.64755392074585,4.50046873092651
+"178","190",10,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,6.00088500976563,0.252088159322739,13.4725303649902
+"179","192",2,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.226364135742188,1.50835514068603,4.31143665313721,2.54956245422363
+"180","193",7,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,3.5568904876709,0.15561306476593,5.30062770843506
+"181","194",10,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,6.26377201080322,0.935336887836456,7.87853574752808
+"182","195",11,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,6.62787199020386,14.8544750213623,3.69922804832458,10.3861865997314
+"183","196",13,Tree - Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.08146667480469,9.79579448699951,0.530859112739563,7.99533843994141
+"184","197",3,Tree - Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,5.86121034622192,6.62881422042847,0.521534204483032,5.52692937850952
+"185","198",10,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,12.8197174072266,0.306604504585266,15.4368553161621
+"186","199",10,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,10.4303741455078,0.796564102172852,10.1773042678833
+"187","200",15,Tree - Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,16.5102367401123,0.337087959051132,24.2036304473877
+"188","170",5,Forest,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,11.3773736953735,0.510001420974731,11.7366991043091
+"189","171",7,Forest,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.30228328704834,16.9739570617676,0.425883948802948,18.3501052856445
+"190","184",5,Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.1900110244751,7.54966354370117,1.02000832557678,6.87285280227661
+"191","55",7,Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,1.23866558074951,10.874659538269,0.597943723201752,13.5237407684326
+"192","157",5,Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.42558479309082,7.20606899261475,0.112050704658031,10.4983711242676
+"193","50",10,Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,21.4524459838867,0.00992255844175816,19.7893238067627
+"194","183",5,Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,5.550377368927,0.00997977610677481,6.27491331100464
+"195","167",10,Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,19.1993408203125,0.0108385514467955,13.8662796020508
+"196","191",7,Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,9.91845226287842,0.0103628411889076,15.5680198669434
+"197","164",7,Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0.588834762573242,4.29323196411133,1.46386408805847,10.5793199539185
+"198","163",7,Garden,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,2.34859466552734,10.0441551208496,0.618121445178986,13.2631092071533
+"199","166",5,Street,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,0,2.20748519897461,0.362102061510086,3.61152744293213
+"200","165",3,Park,Negative,Negative_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Negative_Change.shp,4.08541917800903,14.868447303772,0.686156809329987,26.2862186431885
+"201","1",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992255844175816
+"202","2",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0185175854712725,0.0104547748342156
+"203","3",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0807736217975616,0.0997472852468491
+"204","4",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0949836000800133,0.0933352336287498
+"205","5",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.729300498962402,0,0.309340387582779,0.14958955347538
+"206","6",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.524661719799042,0.571433007717133
+"207","7",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0137993879616261
+"208","8",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,3.85105419158936,2.09062385559082,0.0100763142108917,0.108388103544712
+"209","9",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0102434493601322
+"210","10",0,Bulding,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.135396957397461,0,0.0924171879887581,0.0941199436783791
+"211","11",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0119148408994079,0.0099787013605237
+"212","17",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0384852066636086,0.0667996853590012
+"213","18",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.00012969970703,0,0.457811653614044,0.266050159931183
+"214","19",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0.83733081817627,1.14549803733826,0.809983193874359
+"215","20",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0566191673278809,0.0473948232829571
+"216","21",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0247193165123463,0.225877851247787
+"217","22",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.509478390216827,0.434298634529114
+"218","23",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.191556558012962,0.265618622303009
+"219","24",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.664972305297852,0,0.0126658109948039,0.0187725983560085
+"220","25",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.50560188293457,0,0.310516595840454,0.523242354393005
+"221","26",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,16.5988330841064,16.6608791351318,14.6169872283936,13.4960985183716
+"222","27",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,22.3809776306152,19.953369140625,23.77392578125,23.301778793335
+"223","28",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,22.4574375152588,24.9174842834473,22.1493301391602,22.4951992034912
+"224","29",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,12.6409711837769,15.8386812210083,15.9135999679565,16.0675029754639
+"225","30",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,10.7796268463135,12.7834310531616,16.3074359893799,14.9373569488525
+"226","31",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,18.1742553710938,19.7937698364258,18.5002136230469,17.4597301483154
+"227","32",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,22.2186698913574,19.4836654663086,23.3859691619873,21.635929107666
+"228","33",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.89159202575684,7.94072818756104,2.06072950363159,1.20034551620483
+"229","34",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,20.3956050872803,19.8822021484375,21.3363227844238,20.9546794891357
+"230","35",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,20.7557106018066,22.6881942749023,24.3347473144531,23.7597713470459
+"231","36",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,18.1451606750488,16.6996459960938,17.8879165649414,17.272029876709
+"232","37",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,18.1817092895508,21.1428413391113,19.1365833282471,18.5121459960938
+"233","38",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,19.3571319580078,20.8339252471924,21.4049892425537,21.5335502624512
+"234","39",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,14.4155406951904,18.1620941162109,20.4897747039795,20.000524520874
+"235","40",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.449169516563416,0.83676141500473
+"236","41",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.558362066745758,0.422488361597061
+"237","42",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,24.2937393188477,25.0010871887207,28.5867462158203,28.5083351135254
+"238","43",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,23.5816879272461,24.2218322753906,24.1286716461182,24.8948669433594
+"239","44",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,24.7540740966797,25.2460594177246,24.6900291442871,26.7217578887939
+"240","46",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,25.5237236022949,22.6520442962646,23.8656787872314,23.9283428192139
+"241","47",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,28.6358966827393,28.0725765228271,28.9238605499268,29.9847450256348
+"242","48",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,9.36299705505371,13.9773826599121,5.82996129989624,6.45820188522339
+"243","49",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,13.425048828125,14.3962364196777,13.2566738128662,11.381796836853
+"244","50",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,14.8866691589355,18.5919132232666,24.6995220184326,23.6165084838867
+"245","51",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.205810874700546,0.0549756400287151
+"246","52",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0101042808964849,0.0282496754080057
+"247","53",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0477511398494244,0.139419361948967
+"248","54",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0126931061968207,0.0107826692983508
+"249","57",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,12.5729961395264,16.2464218139648,15.6471195220947,18.5573272705078
+"250","58",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,6.94661140441895,3.39293098449707,1.16636562347412,0.420143991708755
+"251","59",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,5.41560697555542,6.40374565124512,0.352840811014175,0.786479890346527
+"252","60",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,21.1919765472412,17.0827331542969,22.4268550872803,22.053409576416
+"253","61",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,27.6132259368896,25.0264511108398,28.1828289031982,27.5323257446289
+"254","62",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.773251831531525,0.462622195482254
+"255","63",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,2.74056434631348,0,0.513179242610931,0.480858534574509
+"256","64",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.878871917724609,0,0.488371223211288,0.672475814819336
+"257","65",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,21.7817554473877,21.0396709442139,23.7291355133057,23.0780220031738
+"258","66",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,26.7936668395996,29.4670925140381,25.4885540008545,25.5285224914551
+"259","67",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.621532738208771,0.438553631305695
+"260","68",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0109912408515811,0.0113542629405856
+"261","69",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0149546088650823,0.0186801180243492
+"262","70",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.152979791164398,0.360847920179367
+"263","73",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0099730808287859,0.0341251567006111
+"264","78",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.730015695095062,0.527584433555603
+"265","79",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.545382499694824,1.69537353515625,1.38006174564362,1.28898108005524
+"266","80",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,20.7917308807373,19.4353713989258,20.2344036102295,16.4906139373779
+"267","81",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.27967357635498,0,1.35363590717316,0.904914319515228
+"268","82",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,4.15072154998779,0.15227222442627,1.87309086322784,0.822471618652344
+"269","83",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992255844175816
+"270","85",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992255844175816
+"271","86",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,2.57981109619141,2.69008541107178,0.0288958828896284,0.0505033545196056
+"272","87",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0.518156051635742,0.0286727994680405,0.137234538793564
+"273","88",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,1.08718585968018,0.0631764084100723
+"274","89",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0246711745858192,0.0342105142772198
+"275","90",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.137472152709961,0.224199295043945,0.252671539783478,0.239267587661743
+"276","91",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,16.3632030487061,17.5863761901855,18.9185752868652,18.3597259521484
+"277","92",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992255844175816
+"278","93",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,2.82570648193359,3.2905125617981,0.206274777650833,0.480535268783569
+"279","94",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,22.7696495056152,21.4180526733398,26.6567783355713,25.7459564208984
+"280","95",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.010296075604856,0.0100943427532911
+"281","96",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.10249710083008,1.1109619140625,0.394732534885406,0.216843321919441
+"282","97",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,13.4186201095581,12.6829900741577,12.7409439086914,12.9602565765381
+"283","98",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,3.09494304656982,0.014175415039063,0.31336036324501,0.254193753004074
+"284","99",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0.367801666259766,0.37401807308197,0.432780385017395
+"285","100",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992269814014435,0.0252555888146162
+"286","101",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0108319669961929,0.014701584354043
+"287","102",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.254573345184326,0.291706055402756
+"288","103",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,23.1789073944092,21.0271434783936,27.0529708862305,24.5189590454102
+"289","104",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,22.7282066345215,21.4273643493652,21.6790618896484,21.1469211578369
+"290","105",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,21.7389831542969,22.9015045166016,18.9591064453125,16.3036212921143
+"291","106",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,17.20924949646,18.1520500183105,19.4655170440674,19.0647888183594
+"292","107",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,22.2332458496094,22.0621795654297,24.0721683502197,23.1788501739502
+"293","108",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,24.3487854003906,25.4819107055664,29.4021873474121,28.4684295654297
+"294","109",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,23.1777420043945,23.5519599914551,26.2825870513916,25.1817207336426
+"295","110",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,20.7877159118652,16.8646411895752,21.3428936004639,20.6257743835449
+"296","112",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,20.5639114379883,23.33837890625,24.6178188323975,23.921703338623
+"297","113",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,12.5309276580811,13.7745265960693,18.3943119049072,18.937931060791
+"298","114",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,22.0262107849121,19.6540241241455,23.1337051391602,22.9983177185059
+"299","115",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,25.9819164276123,25.6698265075684,26.2550315856934,25.0714645385742
+"300","116",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,21.3815422058105,19.0079135894775,21.4262561798096,20.0110111236572
+"301","117",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,16.1736125946045,15.5008220672607,14.2644109725952,13.4437026977539
+"302","119",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,,0.10556248575449,0.181064859032631
+"303","120",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.61192512512207,0.210169792175293,0.412076830863953,0.503611445426941
+"304","121",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0428504720330238,0.15742489695549
+"305","122",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0.905596733093262,0.0603277832269669,0.307478368282318
+"306","123",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0099761001765728,0.0246743764728308
+"307","124",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0174506101757288,0.0193885639309883
+"308","125",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992255844175816
+"309","126",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.129758834838867,3.16060447692871,0.0225532427430153,0.0154956337064505
+"310","127",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0107110701501369,0.00992255844175816
+"311","128",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0731989294290543,0.0484606400132179
+"312","129",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,2.34562873840332,0.0106503386050463,0.00994345918297768
+"313","130",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0110942758619785,0.466638505458832
+"314","131",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.02964687347412,0,0.271412074565887,0.0202046185731888
+"315","132",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0557358451187611,0.0427686832845211
+"316","133",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.103902235627174,0.0866311341524124
+"317","134",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0645660609006882,0.0193718913942575
+"318","135",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0110089648514986,0.105513915419579
+"319","136",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0651819482445717,0.0204897653311491
+"320","137",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0133206592872739
+"321","138",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,2.12588787078857,0.435832977294922,0.83573043346405,0.231685042381287
+"322","139",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.040187835693359,0,0.176204159855843,0.12216404825449
+"323","140",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.146962761878967,0.0433800928294659
+"324","141",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.704626262187958,0.897458136081696
+"325","142",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,5.22911262512207,4.29024505615234,0.973396480083466,0.661384403705597
+"326","143",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0132284518331289,0.0131625682115555
+"327","144",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0225705914199352
+"328","145",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992255844175816
+"329","146",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0100654941052198,0.013403307646513
+"330","147",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992255844175816
+"331","148",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0121077541261911,0.380252510309219
+"332","149",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.742316365242004,0.149880960583687
+"333","150",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0101669244468212,0.0464465580880642
+"334","151",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0420142486691475
+"335","152",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0708292201161385,0.130704715847969
+"336","153",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.680309295654297,0.622744560241699,0.360755801200867,0.693581759929657
+"337","154",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00993417017161846,0.0415291599929333
+"338","155",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0102481702342629,0.00992255844175816
+"339","156",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0147830452769995,0.0201480649411678
+"340","157",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.122600309550762,0.143399059772491
+"341","158",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.247484892606735,0.339654594659805
+"342","159",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0604275539517403,0.0104490639641881
+"343","160",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.128796890377998,0.24038915336132
+"344","161",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0103361420333385
+"345","162",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0128252850845456
+"346","163",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.143703401088715,0.0614530220627785
+"347","164",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.117509841918945,0.523731231689453,0.0806929916143417,0.0807400718331337
+"348","165",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0.655385971069336,0.139653012156487,0.0411339960992336
+"349","166",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992618221789598
+"350","167",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0265442617237568
+"351","168",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.840075492858887,0.445988655090332,0.0859619677066803,0.0877218618988991
+"352","169",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0148611785843968
+"353","170",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992590934038162
+"354","171",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0567820370197296
+"355","172",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.71924209594727,0,0.934726297855377,0.429768055677414
+"356","173",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0.104763031005859,0.139599665999413,0.0395107641816139
+"357","174",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.323335558176041,0.503082036972046
+"358","175",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,1.72857570648193,0.623191177845001,0.531667292118073
+"359","178",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.496391654014587,0.475281149148941
+"360","179",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.68149375915527,1.92896556854248,0.579775810241699,0.577735304832458
+"361","180",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.569570899009705,0.753550112247467
+"362","181",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.497891187667847,0.531029582023621
+"363","182",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.49976846575737,0.459401369094849
+"364","183",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.527539372444153,0.632922172546387
+"365","184",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.75250053405762,0.066989898681641,1.19525098800659,0.601472079753876
+"366","185",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,1.0238208770752,0.522474884986877,0.510150015354156
+"367","186",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,1.09786415100098,0.587620556354523,0.464708656072617
+"368","188",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.377982139587402,0.803524017333984,0.474308848381042,0.458591759204865
+"369","189",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.48606464266777,0.524429619312286
+"370","190",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,2.23567962646484,0,0.51604300737381,0.394714862108231
+"371","191",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.836668968200684,1.11433601379395,0.449225097894669,0.716090738773346
+"372","192",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.515595257282257,0.451769024133682
+"373","193",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.477649092674255,0.512344300746918
+"374","194",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.893455684185028,0.459484934806824
+"375","195",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0.508783340454102,0.34223872423172,1.2783340215683
+"376","196",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0.741722106933594,0.92315673828125,0.497164875268936,0.536768138408661
+"377","197",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.531890749931335,0.542353451251984
+"378","198",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.527267694473267,0.522984445095062
+"379","199",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0.156454086303711,0.508291304111481,0.444985687732697
+"380","200",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,1.96771049499512,0.528243482112885,0.517772853374481
+"381","16",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.884512007236481,0.921534717082977
+"382","13",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.00992255844175816
+"383","14",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,1.09968090057373,0.575418949127197,0.387085765600204
+"384","71",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,1.48912596702576,1.53134417533875
+"385","12",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.201486557722092,0.076791025698185
+"386","176",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.51543664932251,0.488535821437836
+"387","15",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,1.72510206699371,0.969544410705566
+"388","118",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,11.6621513366699,12.2283353805542,15.7305288314819,15.0530548095703
+"389","84",0,Street,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.377358436584473,0.458897411823273
+"390","111",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,20.8081245422363,19.1790103912354,29.8102207183838,28.9110221862793
+"391","72",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.00992255844175816,0.0112432856112719
+"392","53",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,19.4982662200928,15.5816030502319,16.6187877655029,15.6161499023438
+"393","55",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,20.9945526123047,21.0801410675049,26.8042774200439,25.3770561218262
+"394","77",0,Filed,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.541486084461212,0.556599974632263
+"395","76",0,Field,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.543943107128143,0.44909593462944
+"396","77",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.0109808444976807,0.0114033296704292
+"397","177",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.532264590263367,0.475156486034393
+"398","75",0,Building,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,1.19980907440186,1.23801517486572,0.0723393261432648,0.0919916033744812
+"399","187",0,Grass,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,0,0,0.414311438798904,0.552012622356415
+"400","45",0,Tree,No_Change,No_Change,C:/Users/Basak/Documents/Masterarbeit/Data/QGIS/No_Change.shp,19.2262744903564,19.2020874023438,13.2489309310913,10.5108222961426
+"401","1",3,Tree,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.12489700317383,4.66913747787476,3.97596549987793,3.38049554824829
+"402","2",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.16696262359619,0,3.12289214134216,2.64841032028198
+"403","3",3,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.42457008361816,2.43131256103516,2.25854635238647,1.56577110290527
+"404","4",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.41942644119263,8.50346565246582,7.11008548736572,9.56703662872314
+"405","5",2,Tree - Platz,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,0.730708599090576,0.507902324199677
+"406","6",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.45312023162842,0,0.961726605892181,0.024243026971817
+"407","7",3,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0.563529968261719,0.984127819538116,0.818989217281342
+"408","8",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,0.29616916179657,0.176828429102898
+"409","9",2,Tree - Platz,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,2.8499596118927,1.88919770717621
+"410","10",2,tree - Platz,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.5333194732666,0,1.73291921615601,0.968693733215332
+"411","11",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,2.41581082344055,0.701056957244873
+"412","12",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,3.66030645370483,0.761494576931
+"413","13",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,3.37739706039429,2.09839415550232
+"414","14",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.55355596542358,0,3.40085816383362,1.73142826557159
+"415","15",2,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.35196590423584,8.63626384735107,8.3331413269043,5.06366205215454
+"416","16",3,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.49028205871582,0,0.733651161193848,0.155029490590096
+"417","17",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.79435253143311,1.97187328338623,4.23196172714233,2.62945675849915
+"418","18",2,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.02651405334473,2.27956962585449,5.77984762191772,3.50033092498779
+"419","19",2,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.55749797821045,2.06692695617676,3.30122900009155,1.04239678382874
+"420","20",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.99138689041138,3.35796165466309,4.94978332519531,3.28039741516113
+"421","21",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.06081056594849,1.01749134063721,4.26371717453003,1.1324450969696
+"422","22",2,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.34754943847656,2.20672607421875,2.41713976860046,1.24596786499023
+"423","23",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.21864795684814,0,2.07412624359131,1.0104558467865
+"424","24",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,14.212028503418,9.04727077484131,6.74754953384399,5.97518444061279
+"425","25",2,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.67107772827148,0,1.89239203929901,1.11706817150116
+"426","26",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.30248975753784,0,2.81290531158447,1.31575167179108
+"427","27",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,5.05881452560425,1.64077746868134
+"428","28",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.76002025604248,3.26084232330322,4.42148399353027,2.73000907897949
+"429","29",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.78874206542969,6.05769538879395,4.72814512252808,7.60490560531616
+"430","30",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.34955310821533,8.66931915283203,3.67706966400146,1.0300989151001
+"431","31",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.22130012512207,0,1.75684893131256,1.08906447887421
+"432","35",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.76455497741699,5.21915245056152,4.83049488067627,0.819384574890137
+"433","36",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.641551971435547,0,4.43048477172852,2.2437059879303
+"434","37",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.07587909698486,0,2.07506990432739,1.08025586605072
+"435","38",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,3.58529496192932,2.99125456809998
+"436","39",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.82428741455078,0,4.47818422317505,2.74317479133606
+"437","40",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.21645832061768,0,1.63871443271637,1.20334303379059
+"438","41",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.295864105224609,0,3.11329531669617,1.36619436740875
+"439","42",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.8498420715332,0.642592430114746,5.00987815856934,3.35777401924133
+"440","43",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,1.81535124778748,0.818146884441376
+"441","44",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.04200839996338,3.76262378692627,8.09214401245117,7.35869646072388
+"442","45",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.40396881103516,0.835467338562012,5.3448224067688,1.53645431995392
+"443","46",2,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.80331802368164,6.62118721008301,3.49796533584595,10.3038234710693
+"444","47",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.23477268218994,1.21724033355713,7.36840438842773,3.41938233375549
+"445","48",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.46735668182373,0.507562637329102,6.28469133377075,4.09946346282959
+"446","49",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.79391479492188,3.10813903808594,4.68051910400391,2.75400924682617
+"447","50",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.6493034362793,2.23427295684814,10.119161605835,6.75628662109375
+"448","51",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.63087654113769,1.69837760925293,2.54193902015686,1.93024933338165
+"449","52",2,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.04286193847656,8.98666000366211,11.2605180740356,6.01472997665405
+"450","53",5,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,10.1456003189087,5.79199981689453,11.0335359573364,2.75444459915161
+"451","54",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,2.86938190460205,2.28378391265869
+"452","55",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.23397541046143,2.73785305023193,3.89406132698059,1.45272505283356
+"453","56",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.274782180786133,2.30413722991943,6.98326587677002,2.76802349090576
+"454","57",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.97229814529419,3.68620872497559,7.31204652786255,6.95621061325073
+"455","58",2,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.18759536743164,4.19759654998779,9.24353885650635,1.27239847183228
+"456","59",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.07912349700928,0,5.8024582862854,2.381671667099
+"457","60",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.79419326782227,4.48030948638916,4.07308673858643,0.603500306606293
+"458","61",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.56795024871826,5.31361150741577,5.7397780418396,3.02177023887634
+"459","62",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,2.17326974868774,0.914691388607025
+"460","63",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.44636917114258,2.60710525512695,4.60560989379883,3.63938975334167
+"461","65",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.77383136749268,13.7264766693115,9.34514045715332,8.35185813903809
+"462","66",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.89681625366211,0,4.50485229492188,3.41595053672791
+"463","67",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.89274406433106,6.22467756271362,9.23471832275391,7.51956033706665
+"464","68",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.575967788696289,0,2.39855265617371,1.61748480796814
+"465","69",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.11346626281738,0,5.70907545089722,2.0354597568512
+"466","70",1,Tree Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.45853662490845,2.88700771331787,5.26518106460571,4.39918327331543
+"467","71",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.86690616607666,1.56473636627197,4.88187170028687,1.14039790630341
+"468","72",2,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.6176700592041,9.83734321594238,18.9491653442383,16.1680870056152
+"469","73",2,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,15.6785202026367,15.4719076156616,18.466833114624,17.9285182952881
+"470","74",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.8697338104248,1.40826416015625,3.42979454994202,2.01587510108948
+"471","75",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.99696111679077,3.99116373062134,3.87530279159546,1.2919545173645
+"472","76",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.88068819046021,1.81622409820557,5.27348041534424,2.56207799911499
+"473","77",1,Tree - Industry,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.58543682098389,6.68681049346924,3.57881784439087,0.781516075134277
+"474","78",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.88813352584839,3.70309734344482,2.79323673248291,1.17892408370972
+"475","79",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.719877243041992,0,2.41274070739746,1.29776155948639
+"476","80",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,15.1694955825806,15.7179365158081,15.3018217086792,12.885890007019
+"477","81",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,14.2541809082031,11.0554256439209,11.7750253677368,10.6097812652588
+"478","82",2,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.12916278839111,1.43275451660156,5.27693605422974,1.95754718780518
+"479","83",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.89978075027466,3.9020733833313,6.12773895263672,4.67566108703613
+"480","84",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.35196304321289,2.11766719818115,3.78372645378113,2.81638312339783
+"481","87",1,Tree - Forest,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.64350938796997,4.9398889541626,5.91841506958008,2.08069252967834
+"482","88",1,Tree - Forest,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.92624950408936,2.64483451843262,2.16437649726868,0.644269287586212
+"483","89",1,Tree - Forest,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.88805770874023,8.78309154510498,3.77918076515198,0.746436357498169
+"484","90",1,Tree - Forest,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.21281385421753,1.86163139343262,2.39214539527893,0.48128417134285
+"485","92",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.33411359786987,4.44414615631104,2.35264325141907,1.27016913890839
+"486","93",2,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.09530544281006,1.80352210998535,2.44387674331665,1.55426120758057
+"487","94",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.12270498275757,5.03086090087891,4.7164626121521,2.99670338630676
+"488","95",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.14790725708008,0,1.67464792728424,1.21382069587708
+"489","96",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.68424654006958,5.58221006393433,8.75695514678955,0.934173822402954
+"490","97",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.01507759094238,4.19980621337891,6.93726110458374,2.37874269485474
+"491","99",1,Tree - Forest,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.70997762680054,0.097745895385742,6.69362163543701,5.25898265838623
+"492","100",1,Tree - Forest,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.32851696014404,4.55529928207397,12.1183233261108,1.75702130794525
+"493","101",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.37081146240234,4.56562328338623,7.64126110076904,6.74849271774292
+"494","102",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,10.8323345184326,10.2679567337036,12.3235635757446,6.85901069641113
+"495","103",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.11717414855957,7.31580972671509,18.4662532806396,3.66175508499146
+"496","104",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.00554656982422,6.85939884185791,8.13741493225098,6.80225467681885
+"497","105",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.83919048309326,5.08320903778076,5.94813013076782,4.91371536254883
+"498","106",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.76173210144043,3.48596954345703,2.75969386100769,2.31484508514404
+"499","107",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.99887275695801,5.72648286819458,5.56995248794556,2.19899320602417
+"500","111",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.81020498275757,2.67487907409668,2.66097688674927,1.22204768657684
+"501","112",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.3442268371582,7.03902006149292,6.44985151290894,2.55719685554504
+"502","113",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.5070743560791,4.71297788619995,3.2137176990509,1.83478975296021
+"503","115",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.89148426055908,8.7838191986084,4.45625495910645,1.61232531070709
+"504","116",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.65584897994995,5.73687696456909,5.49130249023438,3.84395885467529
+"505","117",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.73460006713867,3.83413791656494,4.43268918991089,1.338547706604
+"506","118",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.96156024932861,4.2843017578125,3.75421166419983,2.3345742225647
+"507","119",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.9219913482666,6.07401180267334,1.38612294197083,5.87233018875122
+"508","120",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.59725093841553,1.16383647918701,3.59221911430359,1.70133900642395
+"509","121",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,20.7162742614746,16.342212677002,19.3098068237305,14.1375923156738
+"510","122",1,Forest,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.7395191192627,8.74298667907715,7.02906513214111,4.84988927841187
+"511","123",0,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.55351257324219,3.59748268127441,3.95122098922729,1.00871086120605
+"512","126",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.721706390380859,2.52776622772217,1.50678634643555,0.416104286909103
+"513","127",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.96256160736084,0,4.20672273635864,3.17710995674133
+"514","128",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.57655715942383,6.34607315063477,5.03164434432983,3.85293316841125
+"515","129",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.9325065612793,1.62505435943603,7.36245107650757,3.15028095245361
+"516","130",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,14.2610626220703,11.6324882507324,13.7227821350098,0.523909270763397
+"517","131",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.09641075134277,1.74893474578857,3.32743525505066,1.9816871881485
+"518","136",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.30279493331909,8.77093315124512,8.13290977478027,7.39776563644409
+"519","137",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,10.1002464294434,12.3139448165894,16.3671112060547,10.7117567062378
+"520","138",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.47808742523193,4.56749773025513,2.91879224777222,1.01885735988617
+"521","139",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.69960737228394,2.24078845977783,4.06068468093872,1.88485968112946
+"522","140",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.46556043624878,7.90464210510254,8.16200733184814,3.82581949234009
+"523","141",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.76034164428711,3.39314746856689,10.0945816040039,5.60318613052368
+"524","142",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.30181884765625,0,1.28878808021545,1.68619656562805
+"525","143",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.40803718566895,5.63111877441406,7.65107107162476,2.95938587188721
+"526","144",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,14.9396047592163,14.480001449585,9.40582084655762,8.92158603668213
+"527","145",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.80655860900879,8.84150695800781,8.05551338195801,4.33383560180664
+"528","146",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.20356941223145,6.35345888137817,7.13241338729858,3.68413639068604
+"529","147",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.68088722229004,6.45168590545654,7.16872262954712,2.26666522026062
+"530","148",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.80611801147461,3.18832683563232,3.32679462432861,1.61493861675262
+"531","149",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.27285957336426,5.00848960876465,5.526198387146,0.600436151027679
+"532","150",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.64413452148438,0.464084625244141,3.68988537788391,1.38152360916138
+"533","153",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.36146545410156,3.19965648651123,4.16302347183228,1.49464344978333
+"534","154",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.31989765167236,3.72273731231689,4.96932315826416,2.5402307510376
+"535","155",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,15.2430515289307,8.04788875579834,9.92504024505615,2.18577766418457
+"536","156",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0.307427406311035,2.54145050048828,1.40959930419922
+"537","157",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.05724906921387,0,5.55623054504395,2.5276095867157
+"538","158",2,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.34825086593628,1.18747520446777,5.39684820175171,0.686822175979614
+"539","159",2,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,12.2425880432129,3.51821422576904,9.4749870300293,2.06595897674561
+"540","160",3,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,13.5530128479004,5.39485216140747,11.3924713134766,0.836203694343567
+"541","161",3,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,12.3136892318726,6.23393726348877,9.98297023773193,0.839130520820618
+"542","162",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.94883489608765,0,1.24178814888,1.14277327060699
+"543","163",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.22992897033691,1.11475372314453,4.10496234893799,2.2468581199646
+"544","164",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.05508136749268,3.54524326324463,6.49906539916992,4.05963039398193
+"545","165",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,8.71807479858398,7.49686145782471,4.57128858566284,1.04491066932678
+"546","166",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.97819137573242,5.8479700088501,2.74347829818726,0.408336669206619
+"547","167",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.18188285827637,1.81655883789063,3.30250263214111,1.13269877433777
+"548","168",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.0854320526123,3.23823356628418,3.0916154384613,1.56761002540588
+"549","169",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.40372323989868,0.247481346130371,4.72071695327759,0.887262225151062
+"550","170",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.70105218887329,4.11989307403565,3.74396777153015,1.48557102680206
+"551","171",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.49529457092285,3.42149209976196,2.05276298522949,0.732183575630188
+"552","172",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.17166805267334,1.42093372344971,5.15249395370483,2.82905101776123
+"553","173",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.3533501625061,2.28112316131592,3.99032807350159,0.391985028982162
+"554","174",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.61953115463257,4.32995510101318,8.13696575164795,1.55990755558014
+"555","175",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.88830661773682,2.51088428497314,3.25724864006042,0.5374995470047
+"556","176",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.92190074920654,3.35248231887817,5.42284440994263,3.74840307235718
+"557","177",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,,,11.0305242538452,7.31229400634766
+"558","178",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.60336208343506,6.27575969696045,8.14907550811768,5.67562627792358
+"559","179",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.85114288330078,6.01866817474365,8.07471179962158,1.33111715316772
+"560","180",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.3411808013916,1.16752243041992,1.80102026462555,1.46506869792938
+"561","181",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.12057638168335,4.35567283630371,6.35486221313477,1.34392714500427
+"562","182",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.60085678100586,3.80737352371216,3.2820258140564,2.66556787490845
+"563","182",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0.344854354858398,0,2.8873507976532,1.97424793243408
+"564","183",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.28429222106934,0.804960250854492,4.42363548278809,3.3416383266449
+"565","184",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,10.6756916046143,7.51149654388428,7.83073329925537,4.24416399002075
+"566","185",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.66352367401123,7.3148021697998,8.74543857574463,6.6830620765686
+"567","186",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.91315078735352,0.627492904663086,4.84802484512329,1.54649293422699
+"568","187",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.57449722290039,2.08537101745606,3.60114908218384,0.711970448493958
+"569","188",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,10.5780363082886,7.78490400314331,6.45084714889526,4.2368483543396
+"570","189",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.62301731109619,2.63728523254394,2.82131290435791,1.83923864364624
+"571","190",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,11.9107275009155,8.13490867614746,7.66911888122559,5.25409460067749
+"572","191",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.01834964752197,7.22862005233765,10.8772125244141,10.3255395889282
+"573","192",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,4.53752279281616,3.0337061882019
+"574","193",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.47970819473267,6.19881916046143,6.4023118019104,3.51110363006592
+"575","194",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.40347814559936,4.8494176864624,3.79552292823792,2.85219502449036
+"576","195",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.83232927322388,4.89831399917603,7.58704566955566,2.30286383628845
+"577","196",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,13.3864221572876,5.54797983169556,12.7339067459106,6.28946208953857
+"578","197",1,Tree - Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,9.18970108032227,6.28344058990479,12.7293634414673,8.61348819732666
+"579","198",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.7549638748169,2.25475311279297,5.65111303329468,3.36714029312134
+"580","199",1,Tree - Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0.590106964111328,2.27562999725342,1.65259969234467
+"581","200",1,Tree - Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,0,0,1.43272423744202,0.823544681072235
+"582","151",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.27746868133545,1.74327087402344,3.0777702331543,0.44873720407486
+"583","152",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,6.16634893417358,4.54863119125366,5.06219434738159,0.736607909202576
+"584","108",1,Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,10.0079784393311,9.29415512084961,9.34405708312988,8.88984870910645
+"585","109",1,Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.13493680953979,4.86647796630859,6.81336688995361,5.65116548538208
+"586","114",1,Park,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.93578815460205,3.54869556427002,7.48128652572632,1.0417582988739
+"587","34",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,4.31890249252319,0,3.18918037414551,1.84324061870575
+"588","33",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.44255018234253,5.39370250701904,4.6043062210083,3.66878008842468
+"589","33",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,12.4174957275391,13.5111303329468,12.5284557342529,10.7187566757202
+"590","132",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.05837440490723,0,3.51859140396118,1.65748405456543
+"591","135",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.90273475646973,3.80183124542236,8.5658712387085,7.54423332214355
+"592","85",1,Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,7.37455654144287,5.23342418670654,8.65933227539063,2.9975790977478
+"593","134",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.5680513381958,0,5.06282186508179,2.80641222000122
+"594","133",2,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,1.86624431610107,0,0.9762362241745,0.444249331951141
+"595","32",1,Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.4151029586792,1.82345867156982,3.1313784122467,0.875654757022858
+"596","86",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,10.0924491882324,2.24112129211426,11.0646638870239,2.48242449760437
+"597","91",1,Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,3.50300598144531,3.61593294143677,3.3536217212677,1.61447560787201
+"598","98",1,Garden,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.20557308197021,0.864129066467285,1.94632804393768,0.724695920944214
+"599","125",5,Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,5.26923322677612,2.05764579772949,3.10980796813965,0.547739565372467
+"600","125",3,Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.52272605895996,0.649259567260742,2.02630639076233,0.470768600702286
+"601","124",2,Street,Positive,Positive_Change,C:/Users/Basak/Documents/Masterarbeit/Data/Changes/Positive_Change.shp,2.30651760101318,0,1.48027873039246,0.550432324409485
